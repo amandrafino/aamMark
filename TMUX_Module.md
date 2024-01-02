@@ -30,7 +30,7 @@ TMUX is a terminal multiplexer that allows users to access multiple separate ter
 
 ### Rename Windows and Remove Windows
 - To rename a window press `Ctrl + b` then `,`
-- To remove a window press `Ctrl + b' then `&`
+- To remove a window press `Ctrl + b` then `&`
 
 ## Tips for Beginners
 - Customize your TMUX configuration by creating and editing `~/.tmux.conf`.
