@@ -18,7 +18,7 @@ TMUX is a terminal multiplexer that allows users to access multiple separate ter
 - `Ctrl + b` is the default prefix key in TMUX. Most TMUX commands start with this prefix.
 - To create a new window, press `Ctrl + b` then `c`.
 - To switch between windows, press `Ctrl + b` then a window number (e.g., `0`, `1`, `2`, etc.).
-- To switch between windows, press 'Ctrl + b' then 'p' or 'n'
+- To switch between windows, press 'Ctrl + b' then `p` or `n'
 - To split the current window vertically, press `Ctrl + b` then `%`.
 - To split the current window horizontally, press `Ctrl + b` then `"`.
 - To close the current pane or window, type `exit` or press `Ctrl + d`.
@@ -29,8 +29,8 @@ TMUX is a terminal multiplexer that allows users to access multiple separate ter
 - To re-attach to a specific session, use `tmux attach-session -t my_session`.
 
 ### Rename Windows and Remove Windows
-- To rename a window press 'Ctrl + b' then ','
-- To remove a window press 'Ctrl + b' then '&'
+- To rename a window press `Ctrl + b` then `,`
+- To remove a window press `Ctrl + b' then `&`
 
 ## Tips for Beginners
 - Customize your TMUX configuration by creating and editing `~/.tmux.conf`.
